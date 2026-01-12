@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+
+# Index / artifacts
+index/
+submission_*.json
+outputs/
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db

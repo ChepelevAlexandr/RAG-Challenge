@@ -1,0 +1,6 @@
+pymupdf
+rank-bm25
+numpy
+scikit-learn
+requests
+openai>=1.0.0
