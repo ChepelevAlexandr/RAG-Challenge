@@ -1,6 +1,19 @@
-pymupdf
-rank-bm25
-numpy
-scikit-learn
-requests
-openai>=1.0.0
+# Core
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Data & utils
+tqdm>=4.66.0
+numpy>=1.26.0
+
+# PDF processing
+pypdf>=4.0.0
+
+# Text search / retrieval
+rank-bm25>=0.2.2
+
+# Optional: embeddings / ML (если используешь или планируешь)
+scikit-learn>=1.4.0
+
+# CLI / formatting
+rich>=13.7.0
